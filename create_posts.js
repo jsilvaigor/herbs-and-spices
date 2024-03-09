@@ -45,7 +45,7 @@ const herbs_and_spices = [
 
 function processHerbsAndSpices() {
     //order alphabetically with special characters
-    herbs_and_spices.sort((a, b) => a.localeCompare(b, "pt-br", { sensitivity: "base" }))
+    herbs_and_spices.sort((a, b) => a.localeCompare(b, "pt-br", {sensitivity: "base"}))
     //reverse order
     herbs_and_spices.reverse()
 
@@ -71,27 +71,23 @@ function processHerbsAndSpices() {
 }
 
 function getPostTemplate(post) {
-    //return a jekyll post template
-    return `---
-layout: post
-title: "${post.title}"
-slug: ${post.slug}
-date: ${new Date().toISOString()}
-categories: [Herbs and Spices]
-tags: [${post.title}]
----
-${post.content}`
-
+    //return a hugo toml post template
+    return `+++
+title = "${post.title}"
+draft = false
+slug = "${post.slug}"
++++
+${post.content}
+`
 }
 
 async function createPosts(posts) {
-    const baseFilename = new Date().toISOString().split("T")[0]
     for (let i = 0; i < posts.length; i++) {
         const post = posts[i]
         const template = getPostTemplate(post)
-        const fileName = `./_posts/${baseFilename}-${post.slug}.md`
+        const fileName = `./content/posts/${post.slug}.md`
         // await 1 second
-        await new Promise(resolve => setTimeout(resolve, 1000))
+        // await new Promise(resolve => setTimeout(resolve, 1000))
         //create file promise node.js
         console.log(`Creating post ${fileName}`)
         await fs.writeFile(fileName, template)
