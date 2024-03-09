@@ -5,3 +5,6 @@ theme = 'anubis2'
 [permalinks]
     [permalinks.page]
         posts = '/:slug'
+
+params:
+    style: dark-without-switcher
