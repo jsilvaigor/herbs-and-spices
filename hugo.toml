@@ -1,0 +1,7 @@
+baseURL = 'https://jsilvaigor.github.io/'
+languageCode = 'pt-br'
+title = 'Herbs And Spices'
+theme = 'anubis2'
+[permalinks]
+    [permalinks.page]
+        posts = '/:slug'
