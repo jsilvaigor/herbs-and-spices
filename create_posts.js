@@ -43,6 +43,46 @@ const herbs_and_spices = [
     "Cinco Especiarias"
 ]
 
+function getContent(herb, slug = "placeholder") {
+    return `
+![${herb}](/images/${slug}.png)
+
+# Nome científico
+    
+*nomen scientificum*
+
+# Sobre
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla egestas commodo diam non venenatis. 
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce aliquam ullamcorper turpis, nec iaculis massa. 
+Curabitur velit ipsum, congue vel nulla eu, sodales vestibulum neque. 
+Vivamus suscipit odio orci, eleifend dignissim metus tristique a. 
+Vestibulum commodo nisl vel velit euismod interdum. 
+Suspendisse consectetur sollicitudin volutpat. Nullam sit amet mauris congue, viverra justo at, posuere libero. 
+Suspendisse posuere tortor sed nulla elementum, vel dapibus justo suscipit.
+
+# Usos
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla egestas commodo diam non venenatis. 
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce aliquam ullamcorper turpis, nec iaculis massa. 
+Curabitur velit ipsum, congue vel nulla eu, sodales vestibulum neque. 
+Vivamus suscipit odio orci, eleifend dignissim metus tristique a. 
+Vestibulum commodo nisl vel velit euismod interdum. 
+Suspendisse consectetur sollicitudin volutpat. Nullam sit amet mauris congue, viverra justo at, posuere libero. 
+Suspendisse posuere tortor sed nulla elementum, vel dapibus justo suscipit.
+
+# Curiosidades
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla egestas commodo diam non venenatis. 
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce aliquam ullamcorper turpis, nec iaculis massa. 
+Curabitur velit ipsum, congue vel nulla eu, sodales vestibulum neque. 
+Vivamus suscipit odio orci, eleifend dignissim metus tristique a. 
+Vestibulum commodo nisl vel velit euismod interdum. 
+Suspendisse consectetur sollicitudin volutpat. Nullam sit amet mauris congue, viverra justo at, posuere libero. 
+Suspendisse posuere tortor sed nulla elementum, vel dapibus justo suscipit.
+`
+}
+
 function processHerbsAndSpices() {
     //order alphabetically with special characters
     herbs_and_spices.sort((a, b) => a.localeCompare(b, "pt-br", {sensitivity: "base"}))
@@ -62,7 +102,7 @@ function processHerbsAndSpices() {
 
         const post = {
             title: herb,
-            content: `Esse é um post sobre ${herb}`,
+            content: getContent(herb),
             slug: slug,
         }
         posts.push(post)
