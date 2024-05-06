@@ -4,39 +4,30 @@ draft = false
 slug = "acafrao"
 +++
 
-![Açafrão](/images/placeholder.png)
+![Açafrão](/images/acafrao.png)
 
 ## Nome científico
-    
-*nomen scientificum*
+
+*CROCUS SATIVUS L.*
 
 ## Sobre
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla egestas commodo diam non venenatis. 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce aliquam ullamcorper turpis, nec iaculis massa. 
-Curabitur velit ipsum, congue vel nulla eu, sodales vestibulum neque. 
-Vivamus suscipit odio orci, eleifend dignissim metus tristique a. 
-Vestibulum commodo nisl vel velit euismod interdum. 
-Suspendisse consectetur sollicitudin volutpat. Nullam sit amet mauris congue, viverra justo at, posuere libero. 
-Suspendisse posuere tortor sed nulla elementum, vel dapibus justo suscipit.
+Crocus sativus, popularmente referido por açafrão, é uma planta da família das iridáceas. É utilizado desde a
+antiguidade como especiaria, principalmente na culinária do Mediterrâneo — região de onde a variedade é originária.
+É tida como uma das especiarias mais caras do mundo uma vez que, para se obter um quilograma de açafrão seco, são
+processadas, manualmente, cerca de 150 000 flores, sendo preciso cultivar uma área de aproximadamente 2 000 m².
 
 ## Usos
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla egestas commodo diam non venenatis. 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce aliquam ullamcorper turpis, nec iaculis massa. 
-Curabitur velit ipsum, congue vel nulla eu, sodales vestibulum neque. 
-Vivamus suscipit odio orci, eleifend dignissim metus tristique a. 
-Vestibulum commodo nisl vel velit euismod interdum. 
-Suspendisse consectetur sollicitudin volutpat. Nullam sit amet mauris congue, viverra justo at, posuere libero. 
-Suspendisse posuere tortor sed nulla elementum, vel dapibus justo suscipit.
+É muito utilizada no preparo de risotos, aves, caldos, massas e doces. É um ingrediente essencial à paelha espanhola.
 
 ## Curiosidades
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla egestas commodo diam non venenatis. 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce aliquam ullamcorper turpis, nec iaculis massa. 
-Curabitur velit ipsum, congue vel nulla eu, sodales vestibulum neque. 
-Vivamus suscipit odio orci, eleifend dignissim metus tristique a. 
-Vestibulum commodo nisl vel velit euismod interdum. 
-Suspendisse consectetur sollicitudin volutpat. Nullam sit amet mauris congue, viverra justo at, posuere libero. 
-Suspendisse posuere tortor sed nulla elementum, vel dapibus justo suscipit.
+Quando seca, a flor desprende de seus órgãos um pigmento amarelo e um óleo volátil, tradicionalmente usado como corante
+de tecidos.
 
+Há séculos é também empregado para fins medicinais. Historicamente foi utilizado no tratamento do câncer e de estados
+depressivos. Tais aplicações têm sido pesquisadas atualmente. Efeitos promissores e seletivos contra o câncer têm sido
+observados in vitro e in vivo, mas não ainda em testes clínicos. Efeitos antidepressivos também foram encontrados in
+vivo e em estudos clínicos preliminares. Há portanto interessantes perspectivas de uso dos extratos de açafrão na
+fitoterapia racional.

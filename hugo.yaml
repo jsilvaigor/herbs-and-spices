@@ -1,0 +1,10 @@
+baseURL: https://jsilvaigor.github.io/
+languageCode: pt-br
+title: Herbs And Spices
+theme: anubis2
+canonifyURLs: true
+permalinks:
+  page:
+    posts: /:slug
+params:
+  style: dark-without-switcher
