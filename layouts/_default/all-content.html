@@ -20,13 +20,12 @@
     <li><a href="#{{ substr .RelPermalink 1 -1 }}">{{ .Title }}</a></li>
     {{ end }}
 </ul>
-
+<div style="break-after:page"></div>
 {{ range .Site.RegularPages }}
-
-<h2 id="{{ substr .RelPermalink 1 -1 }}">{{ .Title }}</h2>
-{{ .Content }}
-
+<div style="break-after:page">
+    <h1 id="{{ substr .RelPermalink 1 -1 }}">{{ .Title }}</h1>
+    {{ .Content }}
+</div>
 {{ end }}
-
 </body>
 </html>

@@ -6,11 +6,11 @@ slug = "salvia"
 
 ![Sálvia](/images/placeholder.png)
 
-# Nome científico
+## Nome científico
     
 *nomen scientificum*
 
-# Sobre
+## Sobre
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla egestas commodo diam non venenatis. 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce aliquam ullamcorper turpis, nec iaculis massa. 
@@ -20,7 +20,7 @@ Vestibulum commodo nisl vel velit euismod interdum.
 Suspendisse consectetur sollicitudin volutpat. Nullam sit amet mauris congue, viverra justo at, posuere libero. 
 Suspendisse posuere tortor sed nulla elementum, vel dapibus justo suscipit.
 
-# Usos
+## Usos
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla egestas commodo diam non venenatis. 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce aliquam ullamcorper turpis, nec iaculis massa. 
@@ -30,7 +30,7 @@ Vestibulum commodo nisl vel velit euismod interdum.
 Suspendisse consectetur sollicitudin volutpat. Nullam sit amet mauris congue, viverra justo at, posuere libero. 
 Suspendisse posuere tortor sed nulla elementum, vel dapibus justo suscipit.
 
-# Curiosidades
+## Curiosidades
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla egestas commodo diam non venenatis. 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce aliquam ullamcorper turpis, nec iaculis massa. 

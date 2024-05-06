@@ -2,9 +2,10 @@ baseURL = 'https://jsilvaigor.github.io/'
 languageCode = 'pt-br'
 title = 'Herbs And Spices'
 theme = 'anubis2'
+canonifyURLs = true
 [permalinks]
-    [permalinks.page]
-        posts = '/:slug'
+[permalinks.page]
+posts = '/:slug'
 
 [params]
-    style = 'dark-without-switcher'
+style = 'dark-without-switcher'
