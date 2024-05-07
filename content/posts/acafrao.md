@@ -8,11 +8,11 @@ slug = "acafrao"
 
 ## Nome científico
 
-*CROCUS SATIVUS L.*
+*Crocus Sativus L.*
 
 ## Sobre
 
-Crocus sativus, popularmente referido por açafrão, é uma planta da família das iridáceas. É utilizado desde a
+*Crocus Sativus*, popularmente referido por açafrão, é uma planta da família das iridáceas. É utilizado desde a
 antiguidade como especiaria, principalmente na culinária do Mediterrâneo — região de onde a variedade é originária.
 É tida como uma das especiarias mais caras do mundo uma vez que, para se obter um quilograma de açafrão seco, são
 processadas, manualmente, cerca de 150 000 flores, sendo preciso cultivar uma área de aproximadamente 2 000 m².

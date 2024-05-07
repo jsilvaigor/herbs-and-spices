@@ -4,39 +4,37 @@ draft = false
 slug = "cardamomo"
 +++
 
-![Cardamomo](/images/placeholder.png)
+![Cardamomo](/images/cardamomo.png)
 
 ## Nome científico
-    
-*nomen scientificum*
+
+*Elettaria Cardamomum*
 
 ## Sobre
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla egestas commodo diam non venenatis. 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce aliquam ullamcorper turpis, nec iaculis massa. 
-Curabitur velit ipsum, congue vel nulla eu, sodales vestibulum neque. 
-Vivamus suscipit odio orci, eleifend dignissim metus tristique a. 
-Vestibulum commodo nisl vel velit euismod interdum. 
-Suspendisse consectetur sollicitudin volutpat. Nullam sit amet mauris congue, viverra justo at, posuere libero. 
-Suspendisse posuere tortor sed nulla elementum, vel dapibus justo suscipit.
+O Cardamomo é uma planta cujo nome científico é *Elettaria cardamomum*. Originário da Índia, o cardamomo chegou à
+Europa com as rotas das caravanas e seguiu com os viquingues de Constantinopla à Escandinávia onde é popular.
+
+A planta é da família do gengibre, com folhas grandes, flores brancas e frutos secos de cor esverdeada ou branca
+contendo sementes negras e aromáticas de sabor picante, que podem ser transformadas em pó ou em óleo.
 
 ## Usos
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla egestas commodo diam non venenatis. 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce aliquam ullamcorper turpis, nec iaculis massa. 
-Curabitur velit ipsum, congue vel nulla eu, sodales vestibulum neque. 
-Vivamus suscipit odio orci, eleifend dignissim metus tristique a. 
-Vestibulum commodo nisl vel velit euismod interdum. 
-Suspendisse consectetur sollicitudin volutpat. Nullam sit amet mauris congue, viverra justo at, posuere libero. 
-Suspendisse posuere tortor sed nulla elementum, vel dapibus justo suscipit.
+As sementes de cardamomo são consumidas no café nos países árabes ("Arabian coffee"). Na Índia, no Líbano, na Síria, nos
+países do Golfo (baharat) e na Etiópia (berbere) é um componente essencial de misturas de especiarias. Também é
+aproveitado para aromatizar pães, carnes, pastéis, pudins, doces, salada de frutas, sorvetes, embutidos e licores. Fica
+bom ainda em maçãs assadas, peras escalfadas, entre outros. Combina em marinada e no vinho. Também em picles e no
+arenque em conserva.
 
 ## Curiosidades
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla egestas commodo diam non venenatis. 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce aliquam ullamcorper turpis, nec iaculis massa. 
-Curabitur velit ipsum, congue vel nulla eu, sodales vestibulum neque. 
-Vivamus suscipit odio orci, eleifend dignissim metus tristique a. 
-Vestibulum commodo nisl vel velit euismod interdum. 
-Suspendisse consectetur sollicitudin volutpat. Nullam sit amet mauris congue, viverra justo at, posuere libero. 
-Suspendisse posuere tortor sed nulla elementum, vel dapibus justo suscipit.
+O nome cardamomo é usado para designar diversas espécies em três gêneros da família do gengibre (as zingiberáceas):
+*Elettaria*, *Amomum* e *Aframomum*.
+
+Praticamente todas as espécies de cardamomo têm uso medicinal ou são usadas como especiaria. Em geral:
+
+- *Elettaria subulatum* é usada como especiaria, como masticatório, além de poder, ainda, ser fumada. Serve de alimento
+  para as lagartas de *Endoclita hosei*.
+- *Aframomum* é usada como especiaria;
+- *Amomum* é usada como planta medicinal na medicina tradicional chinesa, indiana, vietnamita e coreana.
 

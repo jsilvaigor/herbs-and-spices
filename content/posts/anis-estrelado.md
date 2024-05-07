@@ -4,39 +4,35 @@ draft = false
 slug = "anis-estrelado"
 +++
 
-![Anis Estrelado](/images/placeholder.png)
+![Anis Estrelado](/images/anis-estrelado.png)
 
 ## Nome científico
-    
-*nomen scientificum*
+
+*Illicium Verum*
 
 ## Sobre
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla egestas commodo diam non venenatis. 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce aliquam ullamcorper turpis, nec iaculis massa. 
-Curabitur velit ipsum, congue vel nulla eu, sodales vestibulum neque. 
-Vivamus suscipit odio orci, eleifend dignissim metus tristique a. 
-Vestibulum commodo nisl vel velit euismod interdum. 
-Suspendisse consectetur sollicitudin volutpat. Nullam sit amet mauris congue, viverra justo at, posuere libero. 
-Suspendisse posuere tortor sed nulla elementum, vel dapibus justo suscipit.
+Illicium verum popularmente como anis-estrelado, anis-da-china, anis-da-sibéria, badiana ou
+funcho-da-china é uma planta originária da China e do Vietnã. É considerado uma especiaria de uso medicinal e
+culinário. Possui um aroma idêntico ao do anis, pois contém o mesmo óleo, embora seja mais forte.
 
 ## Usos
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla egestas commodo diam non venenatis. 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce aliquam ullamcorper turpis, nec iaculis massa. 
-Curabitur velit ipsum, congue vel nulla eu, sodales vestibulum neque. 
-Vivamus suscipit odio orci, eleifend dignissim metus tristique a. 
-Vestibulum commodo nisl vel velit euismod interdum. 
-Suspendisse consectetur sollicitudin volutpat. Nullam sit amet mauris congue, viverra justo at, posuere libero. 
-Suspendisse posuere tortor sed nulla elementum, vel dapibus justo suscipit.
+É aromatizante usado em pães, bolos, peixes e frutos de mar, deve ser usado com cautela, pois pode ser tóxico.
+Ingrediente essencial ao "pó de cinco especiarias", o anis-estrelado é usado na culinária chinesa em sopas, caldos,
+marinadas para carne de porco, pato e frango. Na cozinha vietnamita é cozido em caldos e no pho (sopa de macarrão e
+carne). Na Índia, o anis-estrelado é comumente usado para substituir o anis por ser mais barato.
+
+É uma dos ingredientes do Chartreuse.
 
 ## Curiosidades
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla egestas commodo diam non venenatis. 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce aliquam ullamcorper turpis, nec iaculis massa. 
-Curabitur velit ipsum, congue vel nulla eu, sodales vestibulum neque. 
-Vivamus suscipit odio orci, eleifend dignissim metus tristique a. 
-Vestibulum commodo nisl vel velit euismod interdum. 
-Suspendisse consectetur sollicitudin volutpat. Nullam sit amet mauris congue, viverra justo at, posuere libero. 
-Suspendisse posuere tortor sed nulla elementum, vel dapibus justo suscipit.
+Há outra espécie próxima, originada do Japão, denominada de anis-estrelado-japonês (Illicium anisatum, também conhecido
+como Illicium religiosum, Illicium japonicum), shikimmi ou skimmi. Está espécie é reconhecida cientificamente como
+altamente venenosa e é, por isso, imprópria para o consumo humano.
+
+Possui propriedades digestivas tendo sido usado contra intoxicações por frutos-do-mar. É conhecido também por suas
+propriedades antissépticas, antiinflamatórias, calmantes, digestivas e diuréticas. Na culinária, a estrela-de-anis é
+utilizada para produzir óleos essenciais e aromatizar bebidas alcoólicas, como a sambuca. É a partir desta planta que se
+produz o principal fármaco para tratamento da Gripe A, o Oseltamivir (nome comercial: Tamiflu).
 

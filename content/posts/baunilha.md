@@ -4,39 +4,33 @@ draft = false
 slug = "baunilha"
 +++
 
-![Baunilha](/images/placeholder.png)
+![Baunilha](/images/baunilha.png)
 
 ## Nome científico
-    
-*nomen scientificum*
+
+*N/A*
 
 ## Sobre
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla egestas commodo diam non venenatis. 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce aliquam ullamcorper turpis, nec iaculis massa. 
-Curabitur velit ipsum, congue vel nulla eu, sodales vestibulum neque. 
-Vivamus suscipit odio orci, eleifend dignissim metus tristique a. 
-Vestibulum commodo nisl vel velit euismod interdum. 
-Suspendisse consectetur sollicitudin volutpat. Nullam sit amet mauris congue, viverra justo at, posuere libero. 
-Suspendisse posuere tortor sed nulla elementum, vel dapibus justo suscipit.
+Baunilha (do castelhano vainilla, pequena vagem) é uma especiaria usada como aromatizante, obtida de orquídeas do
+gênero Vanilla, nativas do México. Originalmente cultivada pelos povos mesoamericanos pré-colombianos, parece ter sido
+levada para a Europa juntamente com o chocolate na década de 1520, pelo conquistador espanhol Hernán Cortés.
+
+A baunilha é a segunda especiaria mais cara, a seguir ao açafrão, devido à mão-de-obra necessária na produção das
+vagens.
 
 ## Usos
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla egestas commodo diam non venenatis. 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce aliquam ullamcorper turpis, nec iaculis massa. 
-Curabitur velit ipsum, congue vel nulla eu, sodales vestibulum neque. 
-Vivamus suscipit odio orci, eleifend dignissim metus tristique a. 
-Vestibulum commodo nisl vel velit euismod interdum. 
-Suspendisse consectetur sollicitudin volutpat. Nullam sit amet mauris congue, viverra justo at, posuere libero. 
-Suspendisse posuere tortor sed nulla elementum, vel dapibus justo suscipit.
+É usada em bolos e sobremesas, perfumes, e na aromaterapia.
 
 ## Curiosidades
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla egestas commodo diam non venenatis. 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce aliquam ullamcorper turpis, nec iaculis massa. 
-Curabitur velit ipsum, congue vel nulla eu, sodales vestibulum neque. 
-Vivamus suscipit odio orci, eleifend dignissim metus tristique a. 
-Vestibulum commodo nisl vel velit euismod interdum. 
-Suspendisse consectetur sollicitudin volutpat. Nullam sit amet mauris congue, viverra justo at, posuere libero. 
-Suspendisse posuere tortor sed nulla elementum, vel dapibus justo suscipit.
+Etimologicamente, a palavra deriva de vainilla diminutivo de vaina, ou seja, bainha em língua espanhola. A palavra vaina
+vem da palavra latina vagina.
+
+Vanilla é um gênero de plantas trepadeiras pertencentes à família das Orquidáceas. É encontrada em zonas tropicais e
+congrega cerca de 109 espécies. A partir dos frutos de algumas espécies obtém-se a especiaria comercialmente conhecida
+como baunilha.
+
+
 
